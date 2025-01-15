@@ -87,6 +87,8 @@ Created visualizations such as pie charts, decomposition trees, and bar charts.
 - Web scraping tool for extracting product review data from websites (e.g., IKEA reviews).
 - Kaggle Datasets: Used for collecting review data.
 
+- Dataset link: 
+
 - **SEMrush**:
 - Conducted competitive analysis and SEO research.
 - Traffic Analysis: Compared website traffic of top competitors like Lowes.com, Ikea.com, etc.
@@ -96,6 +98,16 @@ Used for regional analysis and identifying trends in search volume for key home 
 
 - **Statista**:
 Referenced for market trend analysis and e-commerce trends, identifying top companies in the home decor sector.
+
+## Final Summary
+
+This project analyzed market trends, competitor strategies, and customer purchase behavior in the home decor sector using tools like Power BI, SEMrush, and Statista. Insights were visualized through a Power BI dashboard, showcasing regional analysis, review ratings, and factors influencing customer decisions. View the Power BI dashboard here.
+
+![image](https://github.com/user-attachments/assets/5b979e5d-9950-477c-808b-baac41326919)
+
+## Conclusion
+
+This project provides valuable insights into market trends, competitor strategies, and customer preferences in the home decor industry. The Power BI dashboard visually summarizes key findings to support data-driven decision-making.
 
 
 
