@@ -60,6 +60,7 @@ Source: Statista Report on E-commerce Trends.
 ## Data Transformation
 
 - Imported the IKEA review dataset from Kaggle into Power BI.
+- Dataset link: https://github.com/Janani-R2002/Home-Decor-Market-and-Customer-Analysis/blob/main/ikea_reviews_data.csv
 - Cleaned the dataset by removing missing values and unnecessary columns.
 - Transformed the data into a usable format for visualization and analysis.
 
